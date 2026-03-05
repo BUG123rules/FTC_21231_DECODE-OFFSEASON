@@ -1,11 +1,9 @@
 package org.firstinspires.ftc.teamcode.Testing;
 
-import static org.firstinspires.ftc.teamcode.PedroPathing.PPConstants.createFollower;
-
 import com.pedropathing.follower.Follower;
 import com.seattlesolvers.solverslib.command.CommandOpMode;
 
-import org.firstinspires.ftc.teamcode.PedroPathing.PPConstants;
+import org.firstinspires.ftc.teamcode.pedroPathing.PPConstants;
 
 public class DriveTest extends CommandOpMode
 {
